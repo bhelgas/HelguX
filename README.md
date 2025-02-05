@@ -1,13 +1,13 @@
-# Helgux - A New, Very Good Kernel (Coming in 2028)
+# HelguX - A New, Very Good Kernel (Coming in 2028)
 
-Welcome to Helgux, an ambitious kernel project in the works, aiming to be fast, optimized, modular, and secure. I am not just building another kernel — this is a vision to create something different.
+Welcome to HelguX, an ambitious kernel project in the works, aiming to be fast, optimized, modular, and secure. I am not just building another kernel — this is a vision to create something different.
 
 
 The plan is simple: make a kernel that works, performs well, and pushes boundaries. You can follow along as this evolves. 
 
 
 
-# Goals with Helgux
+# Goals with HelguX
 Be good – Uh huh.
 
 Performance-focused – Most likely not with the programming skills I got LMAO.
