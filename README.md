@@ -27,4 +27,4 @@ Native support for Linux and Windows apps – Probably not, but good to dream bi
 
 2028: Full-feature release. Expect major improvements, optimizations, and modularity by then.
 
-2030: Helgux V2
+2030: Helgux V2 -  Because who doesn’t love a sequel?
