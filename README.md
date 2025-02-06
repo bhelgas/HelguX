@@ -1,4 +1,6 @@
 ![HelguX Branding](/HelguX%20Branding/HelguX%20Branding.png)
+
+[Visit HelguX website](https://helgux.helgaas.no/)
 # HelguX - A New, Very Good Kernel (Coming in 2028)
 
 Welcome to HelguX, an ambitious kernel project in the works, aiming to be fast, optimized, modular, and secure. I am not just building another kernel — this is a vision to create something different.
