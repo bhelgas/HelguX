@@ -1,4 +1,4 @@
-![HelguX Branding](/HelguX%20Branding/HelguX%20Branding.png)
+![HelguX Branding](/HelguX%20Branding/HelguX%20Black.png)
 
 [Visit HelguX website](https://helgux.helgaas.no/)
 # HelguX - A New, Very Good Kernel (Coming in 2028)
